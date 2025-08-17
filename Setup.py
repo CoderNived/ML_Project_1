@@ -15,7 +15,7 @@ def get_requirements(file_path: str) -> List[str]:
     return requirements
 
 setup(
-    name='NEW_ML_PROJECT_1',
+    name='ML_PROJECT_1',
     version='0.0.1',
     author='Nived',
     author_email='nivedshenoy0@gmail.com',
